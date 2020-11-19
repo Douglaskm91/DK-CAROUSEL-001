@@ -1,0 +1,12 @@
+
+.container,
+.carousel,
+.carousel-inner,
+.item img {
+    width: 500px;
+    height: 500px;
+}
+
+h1 {
+    text-align: center;
+}
